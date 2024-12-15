@@ -1,0 +1,5 @@
+cd C:\Users\radit\psybernet
+echo. > app.py
+write the code in app.py and ctrl+s
+if you lost cmd: cd C:\Users\radit\psybernet
+streamlit run app.py
